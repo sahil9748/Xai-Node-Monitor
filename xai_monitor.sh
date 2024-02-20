@@ -8,8 +8,8 @@
 
 ## UPDATE TELEGRAM
 
-TELEGRAM_TOKEN=6962615054:AAFpaEcWW1IXmcxFdFF5o6UW-QiZ3HW3gxQ # example 123456789:jbd78sadvbdy63d37gda37bd8
-TELEGRAM_CHAT_ID=-1002078961693 # example -1234567890
+TELEGRAM_TOKEN=YOUR_TOKEN # example 123456789:jbd78sadvbdy63d37gda37bd8
+TELEGRAM_CHAT_ID=CHAT_ID # example -1234567890
 
 ## Test telegram integration by calling
 ## ./xai_monitor.sh --test-telegram
